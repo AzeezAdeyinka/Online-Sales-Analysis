@@ -44,4 +44,4 @@ Key insights derived from the dashboard include:
 ### Results 
 - Long-term revenue growth is being driven more by customer value and purchasing behavior than sheer order volume.
 
-  ![survey dashboard](https://github.com/AzeezAdeyinka/Professional-Data-Survey-Analysis/blob/main/survey%20dashboard.png)
+  ![Online sales dashboard](https://https://github.com/AzeezAdeyinka/Online-Sales-Analysis/blob/main/online%20sales%20dashboard.png)
